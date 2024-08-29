@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/Legion1310/Home_work_0/blob/main/Project_1/README.md#описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Legion1310/Home_work_0/blob/main/Project_1/README.md#какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Legion1310/Home_work_0/blob/main/Project_1/README.md#краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Legion1310/Home_work_0/blob/main/Project_1/README.md#этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Legion1310/Home_work_0/blob/main/Project_1/README.md#результаты)    
+[6. Выводы](https://github.com/Legion1310/Home_work_0/blob/main/Project_1/README.md#выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/Legion1310/Home_work_0/blob/main/Project_1/README.md#оглавление)
 
 
 ### Какой кейс решаем?    
@@ -31,22 +31,22 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Legion1310/Home_work_0/blob/main/Project_1/README.md#оглавление)
 
 
 ### Этапы работы над проектом  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Legion1310/Home_work_0/blob/main/Project_1/README.md#оглавление)
 
 
 ### Результаты:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Legion1310/Home_work_0/blob/main/Project_1/README.md#оглавление)
 
 
 ### Выводы:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Legion1310/Home_work_0/blob/main/Project_1/README.md#оглавление)
